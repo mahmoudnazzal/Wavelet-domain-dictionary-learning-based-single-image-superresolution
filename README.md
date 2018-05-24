@@ -1,5 +1,4 @@
-# Mahmoud-Nazzal
-Ph.D.
+# Wavelet-domain-dictionary-learning-based-single-image-superresolution
 Wavelet-Domain Dictionary Learning-Based Single Image Superresolution Algorithm
 Version 1.0
 By: Mahmoud Nazzal and Huseyin Ozkaramanli
